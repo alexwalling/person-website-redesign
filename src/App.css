@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: #222222;
+  height: 98vh;
+  padding-top: 10px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.body {
+  color: white;
+}
+
+i {
+  padding: 10px;
+  color:white;
+}
+
+i:hover {
+  color:grey;
+}
+
+h3 {
+  display: inline-block;
+  padding:10px;
+  color:white;
+  font-size:1.5vw;
+}
+
+h3:hover{
+  color:grey;
+}
+
+img {
+  width:60%;
+  height: 60%;
+  padding-top: 19vh;
+  padding-bottom: 10vh;
+}
+
+.socials {
+  float:left;
+  padding-top: 20%;
+}
