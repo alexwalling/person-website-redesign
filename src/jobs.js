@@ -5,7 +5,7 @@ import './index.css';
 class Jobs extends Component {
 render() {
     return (
-      <h2>Jobs</h2>
+      <h1>Jobs</h1>
     );
   }
 }

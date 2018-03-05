@@ -67,6 +67,11 @@ i:hover {
   color:grey;
 }
 
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
 h3 {
   display: inline-block;
   padding:10px;
@@ -80,7 +85,8 @@ h3:hover{
 }
 
 img {
-
+  width: 100%;
+  padding-top: 7em;
 }
 
 #profile-img {
@@ -102,3 +108,17 @@ img {
   float:left;
   padding-top: 20%;
 }
+
+.fa-3x {
+    font-size:4vw !important;
+}
+
+
+
+
+
+
+
+
+
+
